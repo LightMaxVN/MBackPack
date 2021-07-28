@@ -1,0 +1,14 @@
+name: MBackPack
+version: ${project.version}
+main: me.lightmax.com.Main
+api-version: 1.15
+authors: [ LightMax_Vn ]
+description: A back pack plugin for players
+website: www.mineviet.com
+commands:
+  backpack:
+    description: A backpack commands
+    aliases: inv
+  kd:
+    description: A inventory see commands
+    aliases: khodo
